@@ -1,4 +1,4 @@
-# ประเภทของ Load Balancing (Algorithms)
+# ทำ Load Balancer ด้วย NGINX
 Nginx รองรับหลายรูปแบบของการกระจายโหลด:
 
 ## 1. Round Robin (ค่าเริ่มต้น)
